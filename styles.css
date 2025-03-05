@@ -1,0 +1,43 @@
+#tribute-info {
+    background: #F987C5;
+}
+#tribute-info p {
+    line-height: 2;
+}
+body {
+    background: #F64A8A;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#subtitle {
+    text-align:center;
+    font-style: italic;
+}
+
+#img-caption {
+    font-style:italic;
+    margin-top: 0;
+    text-align: center;
+
+}
+
+#quote {
+    font-style: italic;
+}
+
+#image {
+ max-width: 100%;
+ height: auto;
+ display:block;
+}
